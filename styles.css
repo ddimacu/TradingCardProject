@@ -1,0 +1,39 @@
+.card
+  {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    width: 350px;
+  }
+h3
+  {
+    border-style: hidden;
+    padding-left: 25px;
+  }
+.information
+  {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    width: 280px;
+    padding: 15px;
+    margin: 18px;
+  }
+img
+  {
+    height: 300px;
+    width: 300px;
+    padding-left: 25px;
+  }
+.fact
+  {
+    font-style: italic;
+  }
+li span
+  {
+    font-weight: bold;
+  }
+ul li
+  {
+    list-style-type: none;
+  }
